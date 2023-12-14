@@ -1,6 +1,6 @@
 {
   "name": "versioning-experiment",
-  "version": "0.0.4-0",
+  "version": "0.0.4-a",
   "description": "Versioning Experiment for Workflow",
   "main": "index.js",
   "scripts": {
